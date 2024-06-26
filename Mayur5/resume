@@ -6,13 +6,13 @@
     <title>Resume</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
-      .bg-darkblue{
+      .bg-darkblue {
         background-color: #00008B;
       }
-      .name h2{
+      .name h2 {
         color: #00008B;
       }
-      .col-md-8 h2{
+      .col-md-8 h2 {
         color: #00008B;
       }
     </style>
@@ -28,9 +28,7 @@
                     <p>Mobile: +917780155277</p>
                     <p>Email: Jadhav.Mayur_2025@woxsen.edu.in</p>
                     <p>LinkedIn: <a href="https://www.linkedin.com/in/mayur-jadhav-701a07221" class="text-white">https://www.linkedin.com/in/mayur-jadhav-701a07221</a></p>
-                    <p>Address: H-No: 2-2-4/2, Devangula Street ,
-                      Amalapuram. Dist-Dr B. R. Ambedkar Konaseema. Andhra Pradesh.533201
-                    </p>
+                    <p>Address: H-No: 2-2-4/2, Devangula Street, Amalapuram. Dist-Dr B. R. Ambedkar Konaseema. Andhra Pradesh. 533201</p>
                 </div>
                 <div class="Languages mb-4">
                   <h2><b>Languages</b></h2>
@@ -44,12 +42,13 @@
                 <div class="technical-skills">
                     <h2><b>Technical Skills</b></h2>
                     <ul>
-                      <li>Data Analytics </li>
-                      <li>Data Visualisation </li>
+                      <li>Data Analytics</li>
+                      <li>Data Visualisation</li>
                       <li>Python</li>
-                      <li>Java - Basic </li>
-                      <li>Machine Learning - basic</li>
+                      <li>Java - Basic</li>
+                      <li>Machine Learning - Basic</li>
                       <li>Database Management and SQL</li>
+                      <li>HTML</li>
                     </ul>
                 </div>
 
@@ -65,52 +64,47 @@
                 <div class="Hobbies mb-4">
                   <h2><b>Hobbies</b></h2>
                   <ul>
-                    <li>Photography </li>
+                    <li>Photography</li>
                     <li>Travelling</li>
                     <li>Music & Dance</li>
                   </ul>
                 </div>
             </div>
 
-            
-            
-
             <!-- Right Container -->
             <div class="col-md-8 p-5">
-                <div class="name mb-4"><h2><b>Jadhav Mayur</b></h2>
-                  <p>B.Tech- CSE- (AI&amp;DS)</p>
+                <div class="name mb-4">
+                  <h2><b>Jadhav Mayur</b></h2>
+                  <p>B.Tech - CSE (AI & DS)</p>
                 </div>
 
                 <hr class="border-bottom-dotted mb-4">
                 
                 <div class="synopsis mb-4">
                     <h2><b>Synopsis</b></h2>
-                    <p>I am an organized and hardworking data science student with a genuine passion for technology and a drive to gain practical experience to complement my theoretical knowledge. Through my studies, I have established a strong foundation in technology, providing me with a solid base to build upon.
-                      Continual learning and personal development are paramount to me. I understand the dynamic nature of data science and the need to stay updated with the latest advancements. I actively engage with industry resources, attend webinars, and pursue online courses to expand my knowledge.
-                    </p>
+                    <p>I am an organized and hardworking data science student with a genuine passion for technology and a drive to gain practical experience to complement my theoretical knowledge. Through my studies, I have established a strong foundation in technology, providing me with a solid base to build upon. Continual learning and personal development are paramount to me. I understand the dynamic nature of data science and the need to stay updated with the latest advancements. I actively engage with industry resources, attend webinars, and pursue online courses to expand my knowledge.</p>
                 </div>
                 <!-- Dotted Line Below Synopsis -->
                 <hr class="border-bottom-dotted mb-4">
 
                 <div class="academics mb-4">
                     <h2><b>Academics</b></h2>
-                    <p>Woxsen University | Hyderabad
-                      2021 - 2025 | Bachelor of Technology</p>
-                    <p>Aditya Junior College | Amalapuram
-                      2018 - 2021 | Intermediate</p>
-                    <p>Mother Teresa High School | Amalapuram, India
-                      2009 - 2018 | Schooling</p>
+                    <p>Woxsen University | Hyderabad<br>
+                    2021 - 2025 | Bachelor of Technology</p>
+                    <p>Aditya Junior College | Amalapuram<br>
+                    2018 - 2021 | Intermediate</p>
+                    <p>Mother Teresa High School | Amalapuram, India<br>
+                    2009 - 2018 | Schooling</p>
                 </div>
                 <!-- Dotted Line Below Academics -->
                 <hr class="border-bottom-dotted mb-4">
-
 
                 <div class="summer-internship">
                   <h2><b>Summer Internship</b></h2>
                   <p>June 2023 - July 2023</p>
                   <p>SVSS | Bijapur, Karnataka</p>
                   <p>Societal Internship</p>
-                  <p>We did an internship Under NGO called "Swami Vivekananda Seva Sang" to Which we contributed 6 Weeks to the NGO. we have worked with 3 schools through the NGO and thought them about Ethical Values to them. Coming to the Technical part we have created a website for Students, Schools and NGOs through which they can Communicate with each other.</p>
+                  <p>We did an internship under NGO called "Swami Vivekananda Seva Sang" to which we contributed 6 weeks. We worked with 3 schools through the NGO and taught them ethical values. We also created a website for students, schools, and NGOs through which they can communicate with each other.</p>
                 </div>
 
                 <hr class="border-bottom-dotted mb-4">
@@ -118,30 +112,32 @@
                 <div class="certifications">
                   <h2><b>Certifications</b></h2>
                   <ul>
-                    <li>2023-06 | Python for Datascience & AI</li>
+                    <li>2023-06 | Python for Data Science & AI</li>
                     <li>2023-07 | Database and SQL by IBM</li>
-                    <li>2023-08 | Data Analytics and Visualisation using python</li>
+                    <li>2023-08 | Data Analytics and Visualisation using Python</li>
+                    <li>2023-09 | AI for Everyone</li>
+                    <li>2024 | IBM Data Analyst</li>
                   </ul>  
                 </div>
 
                 <hr class="border-bottom-dotted mb-4">
 
-
-
                 <div class="projects">
                     <h2><b>Projects</b></h2>
                     <ul>
-                        <li>Currently working On a cervical Cancer Detection- Python </li>
-                        <li>Website for a Sneaker Booking - HTML</li>
-                        <li>Using AWS created a Database For a Website for Our University</li>
-                        <li>Worked on Credit Card Fraud Detection - Machine Learning</li>
+                        <li>Emergency Vehicle Detection & Alert System for Command Control Center - Hyderabad</li>
+                        <li>Cervical Cancer Detection - Python</li>
+                        <li>Website for Sneaker Booking - HTML</li>
+                        <li>Using AWS created a Database for a Website for Our University</li>
+                        <li>Credit Card Fraud Detection - Machine Learning</li>
+                        <li>Images Classification - Machine Learning</li>
                     </ul>
                 </div>
 
                 <hr class="border-bottom-dotted mb-4">
 
-                <div class="achivements">
-                  <h2><b>Achivements</b></h2>
+                <div class="achievements">
+                  <h2><b>Achievements</b></h2>
                   <ul>
                     <li>Participated in DESIGN+GEN-AI HACKATHON BY MIT-ADT</li>
                   </ul>
